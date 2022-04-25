@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ## I’m currently working with:
 [![Typescript, Nodejs, React](https://skillicons.dev/icons?i=typescript,nodejs,react,postgres)](https://skillicons.dev)
 <br>
-## I also with with:
+## I also work with:
 [![cs, Dotnet](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
